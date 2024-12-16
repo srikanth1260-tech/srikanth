@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CI/CD Deployment Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #0078d7;
+            color: white;
+            padding: 20px;
+        }
+        section {
+            margin: 20px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to CI/CD Deployment</h1>
+    </header>
+    <section>
+        <p>This is a simple webpage deployed using Jenkins!</p>
+        <p>Make changes to this file to test your CI/CD pipeline.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 CI/CD Test Page</p>
+    </footer>
+</body>
+</html>
